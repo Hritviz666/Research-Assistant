@@ -1,0 +1,7 @@
+crewai[tools]==1.4.1
+python-dotenv
+fastapi
+uvicorn
+streamlit
+fpdf2
+markdown
